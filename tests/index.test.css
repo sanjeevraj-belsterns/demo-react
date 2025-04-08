@@ -1,0 +1,15 @@
+/* Test cases for CSS styles */
+
+/* Test for class .example */
+.example {
+    /* Expected styles */
+    color: blue;
+    font-size: 16px;
+}
+
+/* Test for class .container */
+.container {
+    /* Expected styles */
+    display: flex;
+    justify-content: center;
+}
